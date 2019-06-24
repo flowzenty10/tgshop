@@ -1,0 +1,62 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 24 Jun 2019 13:52:46 at https://ggprem.com +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" https://ggprem.com -O1 "C:\Users\EkremTG\Desktop\TGShop" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:53:11	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/owl.video.play.png (loop to same filename)
+13:53:11	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/owl.video.play.png
+13:53:12	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-brands-400.eot (loop to same filename)
+13:53:12	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-brands-400.eot
+13:53:12	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-brands-400.eot (loop to same filename)
+13:53:12	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-brands-400.eot
+13:53:13	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-brands-400.woff (loop to same filename)
+13:53:13	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-brands-400.woff
+13:53:13	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-brands-400.woff (loop to same filename)
+13:53:13	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-brands-400.woff
+13:53:14	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-brands-400.ttf (loop to same filename)
+13:53:14	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-brands-400.ttf
+13:53:14	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-brands-400.svg (loop to same filename)
+13:53:14	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-brands-400.svg
+13:53:15	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-regular-400.eot (loop to same filename)
+13:53:15	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-regular-400.eot
+13:53:15	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-regular-400.eot (loop to same filename)
+13:53:15	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-regular-400.eot
+13:53:16	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-regular-400.woff (loop to same filename)
+13:53:16	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-regular-400.woff
+13:53:16	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-regular-400.woff (loop to same filename)
+13:53:16	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-regular-400.woff
+13:53:17	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-regular-400.ttf (loop to same filename)
+13:53:17	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-regular-400.ttf
+13:53:18	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-regular-400.svg (loop to same filename)
+13:53:18	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-regular-400.svg
+13:53:18	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-solid-900.eot (loop to same filename)
+13:53:18	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-solid-900.eot
+13:53:19	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-solid-900.eot (loop to same filename)
+13:53:19	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-solid-900.eot
+13:53:19	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-solid-900.ttf (loop to same filename)
+13:53:19	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-solid-900.ttf
+13:53:20	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-solid-900.svg (loop to same filename)
+13:53:20	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/assets/fonts/fontawesome/fa-solid-900.svg
+13:53:31	Warning: 	Unable to test https://ggprem.com/template/assets/fonts/SourceSansPro-SemiBoldIt.woff (loop to same filename)
+13:53:31	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/fonts/SourceSansPro-SemiBoldIt.woff
+13:53:36	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/img/user-banner.png (loop to same filename)
+13:53:36	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/img/user-banner.png
+13:53:37	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/img/premium-introduction.png (loop to same filename)
+13:53:37	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/img/premium-introduction.png
+13:53:38	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/img/search-icon.png (loop to same filename)
+13:53:38	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/img/search-icon.png
+13:53:39	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/img/arrow-down.png (loop to same filename)
+13:53:39	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/img/arrow-down.png
+13:53:40	Warning: 	Unable to test https://ggprem.com/template/assets/styles/css/img/comments-form-bg.png (loop to same filename)
+13:53:40	Warning: 	link is probably looping, type unknown, aborting: https://ggprem.com/template/assets/styles/css/img/comments-form-bg.png
+13:53:42	Error: 	"Not Found" (404) at link https://ggprem.com/kayıt-ol (from https://ggprem.com/)
+13:53:42	Warning: 	Link https://ggprem.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+13:53:42	Warning: 	Moved Permanently for ggprem.com/robots.txt
+13:53:42	Warning: 	Redirected link is identical because of 'URL Hack' option: ggprem.com/robots.txt and https://ggprem.com/robots.txt
+13:53:42	Warning: 	Warning moved treated for ggprem.com/robots.txt (real one is https://ggprem.com/robots.txt)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 2 seconds : 51 links scanned, 48 files written (4906461 bytes overall) [4480286 bytes received at 24616 bytes/sec], 667373 bytes transferred using HTTP compression in 23 files, ratio 22%, 3.8 requests per connection
+(1 errors, 50 warnings, 0 messages)
